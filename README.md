@@ -33,3 +33,19 @@
 ### Array of arrays
 
 - This method returns an integer array containing the largest number from each row of a two dimensional array.
+
+---
+
+## Lab 3
+
+### Analyzing Weather Data
+
+- This method should analyze record temperatures to find a lowest and highest temperature on record.
+
+### Tallying Election
+
+- This method should analyze votes and determine which candidate won the election.
+
+### File I/O and Testing
+
+- This method should read in a file of data and analyze the data to answer questions about the file.
