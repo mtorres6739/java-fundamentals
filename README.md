@@ -49,3 +49,15 @@
 ### File I/O and Testing
 
 - This method should read in a file of data and analyze the data to answer questions about the file.
+
+---
+
+## Lab 6
+
+### Inheritance and Interfaces, Part 1
+
+#### The Restaurant class
+- This should create a class to represent a restaurant. Each Restaurant should have a name, a number of stars between 0 and 5, and a price category. 
+
+#### The Review class
+- This should create a class to represent a review. Each Review should have a body, an author, and a number of stars. 
