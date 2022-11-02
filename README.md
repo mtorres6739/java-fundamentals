@@ -61,3 +61,21 @@
 
 #### The Review class
 - This should create a class to represent a review. Each Review should have a body, an author, and a number of stars. 
+
+
+## Lab 7
+
+### Composition and Inheritance, Part 2
+
+#### The Shop class
+
+- This should create a class to represent a Shop. Each Shop should have a name, description, and number of dollar signs.
+
+#### The Theater class
+
+- This should create a class to represent a Theater. Each Theater should have a name and all of the movies currently showing there.
+
+#### The Review class
+
+- This should create a class to represent a review. Each Review should have a body, an author, and a number of stars.
+

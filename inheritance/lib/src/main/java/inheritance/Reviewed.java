@@ -1,5 +1,5 @@
 package inheritance;
 
 public interface Reviewed {
-     void addReview(Review review);
+     default void addReview(Review review) {}
 }
